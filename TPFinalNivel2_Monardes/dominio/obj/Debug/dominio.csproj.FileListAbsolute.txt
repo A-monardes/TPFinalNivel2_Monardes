@@ -1,0 +1,6 @@
+C:\Users\CHESI Y AGUS\Desktop\Repositorio GitHub\TPFinalNivel2_Monardes\dominio\bin\Debug\dominio.dll
+C:\Users\CHESI Y AGUS\Desktop\Repositorio GitHub\TPFinalNivel2_Monardes\dominio\bin\Debug\dominio.pdb
+C:\Users\CHESI Y AGUS\Desktop\Repositorio GitHub\TPFinalNivel2_Monardes\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\CHESI Y AGUS\Desktop\Repositorio GitHub\TPFinalNivel2_Monardes\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\CHESI Y AGUS\Desktop\Repositorio GitHub\TPFinalNivel2_Monardes\dominio\obj\Debug\dominio.dll
+C:\Users\CHESI Y AGUS\Desktop\Repositorio GitHub\TPFinalNivel2_Monardes\dominio\obj\Debug\dominio.pdb
